@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm okinawa-dev
+# okinawa-dev
 
 ### Senior Backend Engineer • AI Engineer • Unreal Engine Developer
 
