@@ -5,11 +5,11 @@
 ### Web Development • Agentic Engineering • Game Development
 
 <p>
-<img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
+<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
 </p>
 
 <p>
-<img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
+<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
 </p>
 
 <p>
