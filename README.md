@@ -9,7 +9,7 @@
 </p>
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=dark" />
 </p>
 
 <p>
