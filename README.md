@@ -13,8 +13,8 @@ Previously created VRChat worlds with over **20 million visits**.
 
 <br><br>
 
-<img width="700" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
+<img width="800" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
 
-<img width="700" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=10&theme=transparent" />
+<img width="800" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=10&theme=transparent" />
 
 </div>
