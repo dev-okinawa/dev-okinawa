@@ -30,4 +30,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+Backend+Developer;Building+AI-powered+Developer+Tools;Symfony+%7C+PHP+%7C+C%2B%2B+%7C+TypeScript;Unreal+Engine+5+Developer;Open+Source+Enthusiast" />
 
+<p align="left"> <img src="https://skillicons.dev/icons?i=php,symfony,ts,js,nodejs,python,react,unrealengine,blender,cpp,docker,kubernetes,git,github,githubactions,linux,postgres,redis,aws,pytorch&theme=dark&perline=20" alt="Skills" /> </p>
+
 </div>
