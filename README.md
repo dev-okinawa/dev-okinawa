@@ -2,18 +2,18 @@
 
 # okinawa-dev
 
-### Senior Backend Engineer • AI Engineer • Unreal Engine Developer
+### Fullstack Engineer • AI Engineer • Unreal Engine Engineer
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-okinawa&theme=transparent" />
+<img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-okinawa&theme=transparent" />
 </p>
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
+<img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
 </p>
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
+<img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
 </p>
 
 <p>
