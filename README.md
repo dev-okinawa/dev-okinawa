@@ -5,27 +5,15 @@
 ### Web Development • Agentic Engineering • Game Development
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
+<img width=600 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dev-okinawa&show_icons=true&theme=transparent" />
 </p>
 
 <p>
-<img width=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
+<img width=600 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-okinawa&layout=compact&langs_count=122&card_width=320&theme=transparent" />
 </p>
 
-<p>
-  <a href="https://github.com/dev-okinawa">
-    <img src="https://komarev.com/ghpvc/?username=dev-okinawa&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/dev-okinawa?tab=followers">
-    <img src="https://img.shields.io/github/followers/dev-okinawa?label=Followers&style=flat&color=blue"/>
-  </a>
-  <a href="https://github.com/dev-okinawa">
-    <img src="https://img.shields.io/github/stars/dev-okinawa?affiliations=OWNER&style=flat&color=yellow"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+Backend+Developer;Building+AI-powered+Developer+Tools;PHP+%7C+Symfony+%7C+Node.js+%7C+TypeScript;C%23+%7C+C%2B%2B+%7C+Unreal+Engine+5+%7C+Unity;Open+Source+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+Backend+Developer;Building+AI-powered+Developer+Tools;Symfony+%7C+PHP+%7C+C%2B%2B+%7C+TypeScript;Unreal+Engine+5+Developer;Open+Source+Enthusiast" />
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=php,symfony,ts,js,nodejs,python,react,unrealengine,blender,cpp,docker,kubernetes,git,github,githubactions,linux,postgres,redis,aws,pytorch&theme=dark&perline=20" alt="Skills" /> </p>
+<img src="https://skillicons.dev/icons?i=php,symfony,laravel,js,ts,nodejs,nestjs,react,nextjs,vue,angular,solidjs,svelte,redux,html,css,tailwind,materialui,python,go,cs,cpp,mysql,postgres,mongodb,sqlite,redis,rabbitmq,kafka,elasticsearch,firebase,docker,kubernetes,nginx,git,github,gitlab,bitbucket,githubactions,vite,webpack,babel,npm,pnpm,yarn,aws,azure,linux,ubuntu,arch,bash,unity,unrealengine,godot,blender,electron,postman,cypress,sentry,grafana,figma,obsidian,vscode,md,ai,idea&theme=dark&perline=22" width="900" alt="Skills" />
 
 </div>
