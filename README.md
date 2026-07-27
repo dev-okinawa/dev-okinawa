@@ -2,7 +2,7 @@
 
 # okinawa-dev
 
-### Fullstack Engineer • AI Engineer • Unreal Engine Engineer
+### Web Development • Agentic Engineering • Game Development
 
 <p>
 <img width=400 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-okinawa&theme=transparent" />
