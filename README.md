@@ -21,7 +21,3 @@ Previously created VRChat worlds with over **20 million visits**.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+Backend+Developer;Building+AI-powered+Developer+Tools;PHP+%7C+Symfony+%7C+Node.js+%7C+TypeScript;C%23+%7C+C%2B%2B+%7C+Unreal+Engine+5+%7C+Unity;Open+Source+Contributor" />
 
 <img src="https://skillicons.dev/icons?i=php,symfony,laravel,js,ts,nodejs,nestjs,react,nextjs,vue,angular,solidjs,svelte,redux,html,css,tailwind,materialui,python,go,cs,cpp,mysql,postgres,mongodb,sqlite,redis,rabbitmq,kafka,elasticsearch,firebase,docker,kubernetes,nginx,git,github,gitlab,bitbucket,githubactions,vite,webpack,babel,npm,pnpm,yarn,aws,azure,linux,ubuntu,arch,bash,unity,unrealengine,godot,blender,electron,postman,cypress,sentry,grafana,figma,obsidian,vscode,md,ai,idea&theme=dark&perline=22" width="900" alt="Skills" />
-
-<br><br>
-
-[![Patreon](https://img.shields.io/badge/Patreon-Support%20me-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/e1on)
